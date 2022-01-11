@@ -1,0 +1,4 @@
+rootProject.name = 'pizza-service'
+include 'demo1'
+include 'demo2'
+include 'demo3'
